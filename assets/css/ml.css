@@ -1,0 +1,44 @@
+body {
+    background-color: #0D131A;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+h3 {
+    color: white;
+    background-color: #ECECEC;
+    padding: 5px 10px;
+    color: black;
+    width: fit-content;
+}
+p {
+    font-weight: 300;
+}
+a{
+    color: #19B9DC;
+    text-decoration: none;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+section {
+    padding: 100px;
+    display: block;
+    width: 50%;
+}
+h2{
+    text-align: center;
+    color:  black;
+    font-size: 2em;
+    background-color: #ECECEC;
+    padding: 5px 200px;
+    width: fit-content;
+}
+section div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}

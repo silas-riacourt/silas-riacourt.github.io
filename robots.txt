@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /2019/
+Disallow: /private/
+Allow : /assets/img/silas.jpg
